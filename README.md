@@ -1,4 +1,5 @@
-# vue-hkfoundation
+# vue-foundationWeb
+# 基金会网站模板
 
 ## Project setup
 ```
